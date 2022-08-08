@@ -6,4 +6,8 @@ Esta es una primera versión de los contenidos y no están consensuados. Te anim
 
 ## Índice
 
-[Código de conducta de Classe](./codigo-de-conducta.md)
+- [Código de conducta de Classe](./codigo-de-conducta.md)
+- Herramientas:
+  - [Slack](./herramienta-slack.md)
+  - [Zoom](./herramienta-zoom.md)
+  - [Git / Github](./herramienta-git.md)
