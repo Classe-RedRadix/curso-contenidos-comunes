@@ -28,3 +28,8 @@
   - Contextualiza bien tu pregunta.
   - Comparte el enlace directo de GitHub a la rama / fichero / línea(s) de código.
   - Si resuelves por ti mismo el problema escribe en slack que ya lo has solucionado.
+
+## ¿Qué pasa si no tengo ni idea de Git? ¿Puedo realizar el curso?
+
+- Sí claro que puedes realizar el curso.
+- Te recomendamos que antes del curso hables con tu profesor para que dé algún recurso donde aprender lo poco que necesitas para hacer el curso.
