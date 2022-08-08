@@ -1,2 +1,1 @@
-# curso-contenidos-comunes
-Contenidos comunes a todos los cursos de Classe
+# Contenidos comunes a todos los cursos de Classe
