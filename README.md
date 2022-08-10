@@ -1,3 +1,5 @@
+![CLASS(E)_Negro](https://user-images.githubusercontent.com/3619686/183945473-4f23125a-aad2-43f4-9ff1-3773abf22848.png)
+
 # Contenidos comunes a todos los cursos de Classe
 
 Si estás leyendo esto es que te has apuntado a uno de los cursos de Classe, ¡¡¡enhorabuena!!!
