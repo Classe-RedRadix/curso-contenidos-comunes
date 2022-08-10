@@ -1,8 +1,10 @@
+![1280px-Slack_Technologies_Logo svg](https://user-images.githubusercontent.com/3619686/183940033-a7f3ea42-eb09-4256-9524-ee65a0b3458d.png)
+
 # Uso de Slack en los cursos de Classe
 
 ## ¿Cómo accedo al espacio de Slack de Classe?
 
-- Días antes de que empiece el curso te invitaremos a nuestro Slack.
+- Días antes de que empiece el curso te llegará una invitación a nuestro Slack por email.
 
 ## ¿Para qué usamos Slack?
 
