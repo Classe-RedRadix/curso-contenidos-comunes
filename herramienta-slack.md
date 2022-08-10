@@ -4,21 +4,25 @@
 
 - Para toda la comunicación con nuestros compañeros.
 - Para toda la comunicación con el profesor.
-- Para toda la comunicaición administrativa del curso.
+- Para toda la comunicación administrativa del curso.
 
-## ¿Para qué no lo usamos?
+## ¿Qué información encontrarás en Slack?
 
-## ¿Qué información vamos a encontrar en Slack?
-
-- Es el punto de entrada al curso, es por donde los alumnos deben empezar.
-- Información útil sobre el curso, enlaces a repos, salas de zoom, fechas, horarios, deberes, avisos...
+- Es el punto de entrada al curso, es por donde los alumnos debéis empezar.
+- Información útil sobre el curso, enlaces a repos, salas de Zoom, fechas, horarios, deberes, avisos...
 
 ## ¿Qué canales vamos a usar?
 
-- Un canal por cada edición de un curso
+- Un canal por cada edición de un curso en la que estarás tú, tus compañeros y el personal de Classe.
 - Un canal para todos los alumnos de todas las ediciones de un curso.
-- Un canal para todos los alumnos de todos las ediciones de todos los cursos.
+- Un canal para todos los alumnos de todas las ediciones de todos los cursos.
 
 ## ¿Cuánto tiempo va a estar abierto el canal de Slack del curso?
 
-- Por decidir
+- ToDo: por decidir
+
+## Soporte del profesor fuera del horario de clase
+
+- ToDo: por decidir
+  - Horario y fechas antes y después del curso
+  - Horario durante el curso.
