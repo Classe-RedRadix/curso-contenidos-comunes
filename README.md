@@ -18,7 +18,7 @@ Y a continuación necesitamos que te asegures de:
 - ¿Te has creado tu cuenta de Zoom?
 - ¿Tienes cuenta de GitHub?
 
-Por último vuelve al repo de tu curso para empezar a aprender.
+!!!Por último vuelve al repo de tu curso para empezar a aprender¡¡¡
 
 > ToDo: estos son los contenidos comunes a todos los cursos de Classe que todo alumno debe leer antes de empezar los cursos.
 > Esta es una primera versión de los contenidos y no están consensuados. Compañero de Redradix, te animo a que los edites como quieras.
