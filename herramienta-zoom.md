@@ -1,37 +1,48 @@
+![ZoomLogo](https://user-images.githubusercontent.com/3619686/183936223-073b100e-2e7d-434b-b777-25302af18613.png)
+
 # Uso de Zoom en los cursos de Classe
 
 ## ¿Para qué usamos Zoom?
 
 - Para conectarnos con los alumnos no estén en en aula presencial.
-- Para grabar las clases. Más tarde se publicarán en el canal de Slack para que las puedas volver a ver cuando quieras.
-- Para dar soporte a las personas que estén en remoto, a veces tomando el control remoto de su ordenador.
+- Para grabar las clases, principalmente la pantalla del profesor. Más tarde se publicarán en Slack para que las puedas volver a ver cuando quieras.
+- Para dar soporte a las personas que estén en remoto, a veces tomando el control de su ordenador.
 
 ## ¿Cómo usamos Zoom?
 
-### Los que estén en la clase
+- Lo primero que debes hacer es [crearte una cuenta en Zoom](https://zoom.us/) para entrar en nuestras salas.
+- A continuación instala la [aplicación de escritorio](https://zoom.us/download) en tu ordenador.
+- En las chinchetas de Slack encontrarás la sala de Zoom donde debes entrar los días de clase.
 
-- Al hacer una pregunta hay que asegurarse de que los compañeros que estén en remoto escuchan la pregunta, para ello:
-   - El alumno debe hablar a través del micrófono externo o conectarse a Zoom.
-   - Ó, el profesor puede repetir la pregunta.
+### Los que estéis en el aula física
 
-### Los que estén en remoto
+- Al hacer una pregunta asegúrate que los compañeros que estén en remoto escuchan la pregunta. Para ello debes hablar a través de un micrófono externo que tenemos en el aula o también puedes conectarte a la sala de Zoom y hablar a través del micro de tu ordenador. Otra opción es que el profesor repita tu pregunta.
 
-- Deben estar siempre silenciados hasta que que quieran intervenir. Esto es para evitar que se acople el sonido.
-- Al hacer una pregunta, desmutear y compartir pantalla para contextualizar la pregunta.
-- Dar el control de tu ordenador al profesor.
-- Explicación sobre cómo compartir pantalla y dar el control del ordenador.
-- Explicación sobre cómo compartir pantalla y dar el control del ordenador en Mac, ya que requiere permisos especiales.
+### Los que estéis en remoto
 
-## ¿Cuáles son las salas de Zoom utilizdas durante el curso?
+- Debes tener Zoom siempre silenciado hasta que quieras intervenir. Esto es para evitar que se acople el sonido.
+- Al hacer una pregunta, desmutéate y habla. Si la pregunta hace referencia a un código que tienes en tu ordenador comparte pantalla lo antes posible para contextualizar mejor la pregunta. Una imagen vale más que mil palabras.
+- Si el profesor necesita cambiar tu código, te pedirá el control remoto de tu ordenador al profesor a través de Zoom. Tú le tendrás que dar permiso para que acceda.
 
-- En las chinchetas del canal de Slack
+## ¿Cuáles son las salas de Zoom utilizadas durante el curso?
+
+- Las encontrarás en las chinchetas del canal de Slack del curso.
 
 ## ¿Dónde están las grabaciones de las clases?
 
-- En las chinchetas del canal de Slack
-- Las grabaciones se vuelcan automáticamente pasados unos minutos desde que finaliza la grabación
+- También las encontrarás en las chinchetas del canal de Slack.
+- Las grabaciones se vuelcan automáticamente pasados unos minutos desde que finaliza la grabación.
 
-## Descargar Zoom
+## Permitir el control remoto de mi Mac
 
-- Enlace de descarga
-- Crear una cuenta
+- Si tienes un Mac debes saber que la primera vez que el profesor te pida el control de tu ordenador deberás cambiar los ajustes del sistema.
+- Ten en cuenta que solo podrá controlar tu ordenador si les das permiso a través de Zoom.
+- Entra en:
+  1. Preferencias del sistema
+  1. Seguridad y privacidad
+  2. Privacidad (última pestaña)
+  3. Accesibilidad (en la columna izquierda)
+  4. Pulsa en el candado para poder cambiar los permisos (esquina inferior izquierda)
+  5. Habilita **zoom.us**
+
+![Habilitar permisos en Zoom](https://user-images.githubusercontent.com/3619686/183894638-b335134a-b209-4106-b27a-16a45b9af78b.png)
