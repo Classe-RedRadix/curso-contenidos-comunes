@@ -1,4 +1,4 @@
-![CLASS(E)_Negro](https://user-images.githubusercontent.com/3619686/183945473-4f23125a-aad2-43f4-9ff1-3773abf22848.png)
+![CLASS(E)_Negro](https://user-images.githubusercontent.com/3619686/183945729-31bb8297-f206-4ae5-9a53-e3d481327ab8.png)
 
 # Contenidos comunes a todos los cursos de Classe
 
