@@ -22,13 +22,11 @@
 
 ## Recomendaciones a la hora compartir código con tus compañeros o el profesor
 
-- Recomendamos replicar la misma esctructura de carpetas, módulos y ejercicios que encontrarás en el repositorio del curso.
-  - De esta forma tus compañeros y tu profesor tardarán menos en encontrar los ejercicios.
 - A la hora de compartir código:
   - Escribe en el canal de Slack adecuado.
   - Indica de qué ejercicio / proyecto estás hablando.
   - Contextualiza bien tu pregunta.
-  - Comparte el enlace directo de GitHub a la rama / fichero / línea(s) de código.
+  - Comparte el enlace directo de GitHub a la rama / PR / fichero / línea(s) de código.
   - Si resuelves por ti mismo el problema escribe en Slack que ya lo has solucionado.
 
 ## ¿Qué pasa si no tengo ni idea de Git? ¿Puedo realizar el curso?
