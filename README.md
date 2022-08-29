@@ -6,6 +6,7 @@ Si estás leyendo esto es que te has apuntado a uno de los cursos de Classe, ¡�
 
 Lo primero que necesitamos que hagas es que leas los siguientes contenidos:
 
+- [¿Qué es Classe?](./que-es-classe.md)
 - [Código de conducta de Classe](./codigo-de-conducta.md)
 - [Requerimientos técnicos](./requerimientos-tecnicos.md)
 - Herramientas:
