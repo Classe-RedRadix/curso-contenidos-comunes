@@ -23,14 +23,13 @@ Si utilizas Windows 10 es necesario que **instales una terminal** apta para el d
 Para ello:
 
 - Activa la opción **Subsistema de Windows para Linux**:
-  - Entra en el menú inicio.
-  - Busca **Activar o desactivar las características de Windows**.
+  - Entra en el menú inicio y busca **Activar o desactivar las características de Windows**.
   - Activa **Subsistema de Windows para Linux** y reinicia.
 - Instala **Ubuntu** dentro de tu Windows:
   - Desde el menú de inicio abre **Microsoft Store**.
   - Busca **Ubuntu**.
   - Instala **Ubuntu 22.04.1 LTS**.
-  - En tu menú inicio se instalará el programa **Ubuntu**, ábrelo (puede tardar un poco).
+  - En tu menú inicio se instalará el programa **Ubuntu**, ábrelo (puede que tarde un poco).
   - Te pedirá que añadas un nuevo usuario y una contraseña: _Enter new UNIX username, New password y Retype new password_.
     Esta contraseña maestra de la terminal. La utilizarás para instalar programas así que no la pierdas.
 
