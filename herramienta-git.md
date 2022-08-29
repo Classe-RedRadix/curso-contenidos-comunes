@@ -38,4 +38,9 @@
 ## ¿Qué pasa si no tengo ni idea de Git? ¿Puedo realizar el curso?
 
 - Sí claro que puedes realizar el curso.
-- Te recomendamos que antes del curso hables con tu profesor para que te dé algún recurso donde aprender lo poco que necesitas para hacer el curso.
+- Aquí te dejamos unos recuros para familiarizarte con Git y GitHub:
+  - [Acerca de Git](https://docs.github.com/es/get-started/using-git/about-git)
+  - [Obtener cambios de un repositorio](https://docs.github.com/es/get-started/using-git/getting-changes-from-a-remote-repository)
+  - [Subir cambios a un repositorio](https://docs.github.com/es/get-started/using-git/pushing-commits-to-a-remote-repository)
+- Para cualquier otra duda, puedes consultar la [documentación oficial de GitHub](https://docs.github.com/es/get-started).
+- Si aún así tienes dudas consulta con tu profesor a través de Slack.
