@@ -10,6 +10,12 @@
 - Para que los alumnos subáis vuestros ejercicios y así poder compartirlos con el resto de compañeros.
 - Para que los alumnos pidáis revisiones de ejercicios o de proyectos a los profesores.
 
+## ¿Cuál es la estructura de un repositorio?
+
+- En Classe tenemos un repositorio público por cada curso.
+- A su vez tenemos una rama por cada promoción del curso.
+- Si tienes que subir ejercicios te lo explicamos en el apartardo [entrega de ejercicios](./entrega-de-ejercicios.md).
+
 ## ¿Qué es lo mínimo que necesitas saber sobre Git?
 
 - Para obtener los contenidos del curso:
