@@ -22,7 +22,7 @@
 
 - Debes tener Zoom siempre silenciado hasta que quieras intervenir. Esto es para evitar que se acople el sonido.
 - Al hacer una pregunta, desmutéate y habla. Si la pregunta hace referencia a un código que tienes en tu ordenador comparte pantalla lo antes posible para contextualizar mejor la pregunta. Una imagen vale más que mil palabras.
-- Si el profesor necesita cambiar tu código, te pedirá el control remoto de tu ordenador al profesor a través de Zoom. Tú le tendrás que dar permiso para que acceda.
+- Si el profesor necesita cambiar tu código, te pedirá el control remoto de tu ordenador a través de Zoom. Tú le tendrás que dar permiso para que acceda.
 
 ## ¿Cuáles son las salas de Zoom utilizadas durante el curso?
 
