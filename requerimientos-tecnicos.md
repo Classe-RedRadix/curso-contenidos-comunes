@@ -15,7 +15,7 @@ Puedes utilizar MacOS, Windows 10 (o superior) o Linux.
 
 ### MacOS y Linux
 
-Si utilizas MacOS o Linux no tienes que hacer nada más.
+Si utilizas MacOS o Linux no tienes que hacer nada más. Si utilizas Windows sigue leyendo...
 
 ## Configuración de la terminal en Windows
 
