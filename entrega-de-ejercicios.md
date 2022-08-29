@@ -6,7 +6,7 @@ Por ello a lo largo del curso os proponemos realizar varios ejercicios y un ejer
 
 ## ¿Cómo entregar un ejercicio?
 
-Si quieres entregar un ejercicio para que el profesor le eche un ojo, para compartirlo con el resto de la clase o para preguntar alguna duda sigue los siguientes pasos:
+Si quieres entregar un ejercicio para que el profesor le eche un ojo, para compartirlo con el resto de la clase o para preguntar alguna duda, sigue los siguientes pasos:
 
 - Cada curso tiene un repositorio de GitHub público.
 - Y cada repositorio tiene una rama con el nombre de tu edición, por ejemplo **promocion-2022-octubre**.
