@@ -5,6 +5,7 @@
 ## ¿Cómo accedo al espacio de Slack de Classe?
 
 - Días antes de que empiece el curso te llegará una invitación a nuestro Slack por email.
+- En ese momento sigue los pasos que se indican en el email.
 
 ## ¿Para qué usamos Slack?
 
