@@ -1,6 +1,6 @@
 ![git_and_github_logo](https://user-images.githubusercontent.com/3619686/183941042-fb22be9e-7636-47ba-925d-2c3ed15dcbad.png)
 
-# Uso de Git / GitHub en los cursos de Classe
+# Uso de [Git](https://git-scm.com/) / [GitHub](https://github.com) en los cursos de Classe
 
 - En los cursos de Classe no enseñamos Git (por ahora) pero sí que lo utilizamos.
 
