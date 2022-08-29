@@ -1,4 +1,4 @@
-# Código de conducta Classe
+# Código de conducta de Classe
 
 ## Nuestro compromiso
 
