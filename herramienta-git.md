@@ -32,4 +32,4 @@
 ## ¿Qué pasa si no tengo ni idea de Git? ¿Puedo realizar el curso?
 
 - Sí claro que puedes realizar el curso.
-- Te recomendamos que antes del curso hables con tu profesor para que dé algún recurso donde aprender lo poco que necesitas para hacer el curso.
+- Te recomendamos que antes del curso hables con tu profesor para que te dé algún recurso donde aprender lo poco que necesitas para hacer el curso.
