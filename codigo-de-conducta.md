@@ -31,18 +31,22 @@ Mientras, son ejemplo de comportamiento inaceptable:
 ## Nuestras responsabilidades
 
 El personal docente, de dirección y administración del proyecto tiene la responsabilidad de clarificar los estándares de comportamiento aceptable y es de esperar que tomen medidas correctivas y apropiadas en respuesta a situaciones de conducta inaceptable.
+
 El personal docente, de dirección y administración del proyecto tiene el derecho y también la responsabilidad de eliminar, editar o rechazar comentarios, commits, código, ediciones de documentación, issues, y otras contribuciones que no estén alineadas con este Código de Conducta, así como de prohibir temporal o permanentemente la participación de quienes se reporte un comportamiento inadecuado, amenazante, ofensivo o perjudicial para el proyecto y la comunidad.
  
 ## Alcance
 
 La aplicación de este código de conducta no se limita a los espacios propios del proyecto (aula, canales de comunicación, etc.), sino que también abarca espacios públicos donde cualquier persona esté en representación del proyecto o comunidad. 
+
 A modo de ejemplo, referimos el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales o presentaciones en eventos on y offline. En caso de duda, la dirección y administración del proyecto puede clarificar la potencial representación del proyecto.  
  
 ## Aplicación
 
 Cualquier caso de abuso, acoso y, en general, cualquier comportamiento inaceptable puede ser reportado al equipo del proyecto en info@classe.dev. 
+
 Desde la dirección y administración del proyecto se revisarán e investigarán todas las quejas recibidas, generando un resultado adecuado a cada situación. Y manteniendo en todo momento confidencialidad con respecto a la identidad de la persona que reportó el incidente.
-Integrantes del equipo de dirección y administración que no sigan o no hagan cumplir este Código de Conducta podrán ser restituidos de su rol en el equipo de forma temporal
+
+Integrantes del equipo de dirección y administración que no sigan o no hagan cumplir este Código de Conducta podrán ser restituidos de su rol en el equipo de forma temporal.
  
 ## Atribución
 
