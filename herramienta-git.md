@@ -18,7 +18,7 @@
 - Para compartir códido con tus compañeros o con el profesor.
   - Tener una cuenta de GitHub creada.
   - Crear un repo para el curso.
-  - Subir el código al repo
+  - Subir el código al repo o crear una pull request.
 
 ## Recomendaciones a la hora compartir código con tus compañeros o el profesor
 
