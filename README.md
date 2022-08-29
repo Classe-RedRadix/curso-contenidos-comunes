@@ -22,4 +22,4 @@ Y a continuación necesitamos que te asegures de:
 
 !!!Por último vuelve al repo de tu curso para empezar a aprender¡¡¡
 
-[classe.dev](https://classe.dev) | [Twitter](https://twitter.com/redradix) | [Linkedin](https://www.linkedin.com/company/redradix)
+Mas info en: [classe.dev](https://classe.dev) | [Twitter](https://twitter.com/redradix) | [Linkedin](https://www.linkedin.com/company/redradix)
