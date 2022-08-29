@@ -20,6 +20,6 @@ Y a continuación necesitamos que te asegures de:
 - ¿Te has creado tu cuenta de Zoom?
 - ¿Tienes cuenta de GitHub?
 
-!!!Por último vuelve al repo de tu curso para empezar a aprender¡¡¡
+¡¡¡Por último vuelve al repo de tu curso para empezar a aprender!!!
 
 Mas info en: [classe.dev](https://classe.dev) | [Twitter](https://twitter.com/redradix) | [Linkedin](https://www.linkedin.com/company/redradix)
