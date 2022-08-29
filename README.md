@@ -8,7 +8,7 @@ Lo primero que necesitamos que hagas es que leas los siguientes contenidos:
 
 - [Código de conducta de Classe](./codigo-de-conducta.md)
 - [Requerimientos técnicos](./requerimientos-tecnicos.md)
-- Herramientas:
+- Herramientas que usamos en todos los cursos:
   - [Slack](./herramienta-slack.md)
   - [Zoom](./herramienta-zoom.md)
   - [Git / Github](./herramienta-git.md)
