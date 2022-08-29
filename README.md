@@ -11,6 +11,7 @@ Lo primero que necesitamos que hagas es que leas los siguientes contenidos:
   - [Slack](./herramienta-slack.md)
   - [Zoom](./herramienta-zoom.md)
   - [Git / Github](./herramienta-git.md)
+- [Requerimientos técnicos](./requerimientos-tecnicos.md)
   
 Y a continuación necesitamos que te asegures de:
 
