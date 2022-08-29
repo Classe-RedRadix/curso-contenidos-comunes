@@ -17,9 +17,9 @@ Puedes utilizar MacOS, Windows 10 (o superior) o Linux.
 
 Si utilizas MacOS o Linux no tienes que hacer nada más.
 
-### Windows 10
+## Configuración de la terminal en Windows
 
-Si utilizas Windows 10 es necesario que **instales ls terminal WSL** apta para el desarrollo.
+Si utilizas Windows 10, o superior, es necesario que **instales ls terminal WSL** apta para el desarrollo.
 Para ello:
 
 - Activa la opción **Subsistema de Windows para Linux**:
@@ -34,7 +34,7 @@ Para ello:
     Esta contraseña maestra de la terminal. La utilizarás para instalar programas así que no la pierdas.
 - Ahora ya tienes instalada la misma terminal que se usa en MacOS y Linux para desarrollar. Cada vez que necesites usarla ábrela desde el menú inicio.
 
-#### Terminal WLS de Windows en VS Code
+### Terminal WLS de Windows en VS Code
 
 Aunque puedes usar la terminal abriéndola desde el menú inicio también puedes configurarla para que esté integrada dentro de VS Code. Para ello:
 
@@ -45,5 +45,10 @@ Aunque puedes usar la terminal abriéndola desde el menú inicio también puedes
 - En la parte superior de la terminal abierta hay un desplegable, ábrelo y pulsa en **Select default profile**.
 - Selecciona la opción **Ubuntu (WSL)**.
 
-> Si tienes cualquier problema para seguir estos pásos no dudes en preguntar en el canal de Slack.
+### Problemas al instalar la terminal en Windows 10
 
+Si al abrir la terminal en Windows no aparece ningún texto, es decir, no termina de iniciarse, lo más probable es que esté siendo bloqueada por el antivirus.
+
+La solución es desinstalar o parar el antivirus y reiniciar. En la mayoría de los casos esto soluciona el problema.
+
+> Si tienes cualquier problema para seguir estos pásos no dudes en preguntar en el canal de Slack.
