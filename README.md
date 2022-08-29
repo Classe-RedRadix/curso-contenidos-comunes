@@ -6,7 +6,6 @@ Si estás leyendo esto es que te has apuntado a uno de los cursos de Classe, ¡�
 
 Lo primero que necesitamos que hagas es que leas los siguientes contenidos:
 
-- [¿Qué es Classe?](./que-es-classe.md)
 - [Código de conducta de Classe](./codigo-de-conducta.md)
 - [Requerimientos técnicos](./requerimientos-tecnicos.md)
 - Herramientas:
@@ -22,3 +21,5 @@ Y a continuación necesitamos que te asegures de:
 - ¿Tienes cuenta de GitHub?
 
 !!!Por último vuelve al repo de tu curso para empezar a aprender¡¡¡
+
+[classe.dev](https://classe.dev) | [Twitter](https://twitter.com/redradix) | [Linkedin](https://www.linkedin.com/company/redradix)
