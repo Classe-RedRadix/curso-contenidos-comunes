@@ -26,6 +26,10 @@
   - Crear un repo para el curso.
   - Subir el código al repo o crear una pull request.
 
+## ¿Necesitas una cuenta en GitHub?
+
+- No es 100% obligatorio pero te lo recomendamos fuertemente ;)
+
 ## Recomendaciones a la hora compartir código con tus compañeros o el profesor
 
 - A la hora de compartir código:
