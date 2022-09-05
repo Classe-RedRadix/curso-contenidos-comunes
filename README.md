@@ -1,5 +1,4 @@
-![CLASSE](https://user-images.githubusercontent.com/3619686/188469461-083cdb46-d058-4737-9c58-b2ba0d01d066.png)
-![183945729-31bb8297-f206-4ae5-9a53-e3d481327ab8](https://user-images.githubusercontent.com/3619686/188469739-f4ca7197-28f9-4f0a-8ca0-6ef9bc439543.png)
+![CLASSE](https://user-images.githubusercontent.com/3619686/188469739-f4ca7197-28f9-4f0a-8ca0-6ef9bc439543.png)
 
 # Contenidos comunes a todos los cursos de Classe
 
