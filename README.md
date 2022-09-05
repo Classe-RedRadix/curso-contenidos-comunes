@@ -1,5 +1,4 @@
 ![CLASSE](https://user-images.githubusercontent.com/3619686/188469739-f4ca7197-28f9-4f0a-8ca0-6ef9bc439543.png)
-![Captura de pantalla 2022-09-05 a las 16 28 52](https://user-images.githubusercontent.com/3619686/188471808-1e6c95d5-ccad-4802-adfb-bac9a78ece5a.png)
 
 # Contenidos comunes a todos los cursos de Classe
 
