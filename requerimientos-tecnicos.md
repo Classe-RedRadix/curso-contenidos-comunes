@@ -19,7 +19,7 @@ Si utilizas MacOS o Linux no tienes que hacer nada más. Si utilizas Windows sig
 
 ## Configuración de la terminal en Windows
 
-Si utilizas Windows 10, o superior, es necesario que **instales ls terminal WSL** apta para el desarrollo.
+Si utilizas Windows 10, o superior, es necesario que **instales la terminal WSL** apta para el desarrollo.
 Para ello:
 
 - Activa la opción **Subsistema de Windows para Linux**:
