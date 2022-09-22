@@ -4,7 +4,7 @@
 
 ## ¿Para qué usamos Zoom?
 
-- Para conectarnos con los alumnos no estén en en aula presencial.
+- Para impartir las clases.
 - Para grabar las clases, principalmente la pantalla del profesor. Más tarde se publicarán en Slack para que las puedas volver a ver cuando quieras.
 - Para dar soporte a las personas que estén en remoto, a veces tomando el control de su ordenador.
 
@@ -12,13 +12,9 @@
 
 - Lo primero que debes hacer es [crearte una cuenta en Zoom](https://zoom.us/) para entrar en nuestras salas.
 - A continuación instala la [aplicación de escritorio](https://zoom.us/download) en tu ordenador.
-- En las chinchetas de Slack encontrarás la sala de Zoom donde debes entrar los días de clase.
+- En las chinchetas de Slack encontrarás el link a la sala de Zoom donde debes entrar los días de clase.
 
-### Los que estéis en el aula física
-
-- Al hacer una pregunta asegúrate que los compañeros que estén en remoto escuchan la pregunta. Para ello debes hablar a través de un micrófono externo que tenemos en el aula o también puedes conectarte a la sala de Zoom y hablar a través del micro de tu ordenador. Otra opción es que el profesor repita tu pregunta.
-
-### Los que estéis en remoto
+### Tu micrófono
 
 - Debes tener Zoom siempre silenciado hasta que quieras intervenir. Esto es para evitar que se acople el sonido.
 - Al hacer una pregunta, desmutéate y habla. Si la pregunta hace referencia a un código que tienes en tu ordenador comparte pantalla lo antes posible para contextualizar mejor la pregunta. Una imagen vale más que mil palabras.
