@@ -21,8 +21,7 @@
 
 ## ¿Qué canales vamos a usar?
 
-- Un canal por cada edición de un curso en la que estarás tú, tus compañeros y el personal de Classe.
-- Un canal para todos los alumnos de todas las ediciones de un curso.
+- Un canal por cada promoción de un curso en la que estarás tú, tus compañeros y el personal de Classe.
 - Un canal para todos los alumnos de todas las ediciones de todos los cursos.
 
 ## ¿Cuánto tiempo va a estar abierto el canal de Slack del curso?
