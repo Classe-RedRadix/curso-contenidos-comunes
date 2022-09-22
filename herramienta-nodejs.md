@@ -1,3 +1,5 @@
+![node](https://user-images.githubusercontent.com/3619686/191708559-7354d2c8-1538-462a-8e97-32918b9de303.png)
+
 # Instalación de NodeJS 16
 
 ## Instalación en Windows y Linux
