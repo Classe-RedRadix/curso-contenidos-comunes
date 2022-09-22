@@ -24,14 +24,11 @@
 - Un canal por cada edición de un curso en la que estarás tú, tus compañeros y el personal de Classe.
 - Un canal para todos los alumnos de todas las ediciones de un curso.
 - Un canal para todos los alumnos de todas las ediciones de todos los cursos.
-- ToDo: hay que pensar en qué momento metemos a los alumnos a cada canal, es decir, podemos añadir a los alumnos a los dos últimos canales al principio del curso o al final.
 
 ## ¿Cuánto tiempo va a estar abierto el canal de Slack del curso?
 
-- ToDo: por decidir
+- Durante todo el curso y un mes más para que podáis hacer preguntas sobre el curso. A partir de ese momento se eliminará el canal, pero podrás seguir comunicándote por el resto de canales.
 
 ## Soporte del profesor fuera del horario de clase a través de Slack
 
-- ToDo: por decidir
-  - Horario y fechas antes y después del curso
-  - Horario durante el curso.
+- Podrás recibir soporte antes, durante y 3 semanas después del curso por parte de tu profesor por Slack.
