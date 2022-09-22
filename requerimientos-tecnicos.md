@@ -52,3 +52,7 @@ Si al abrir la terminal en Windows no aparece ningún texto, es decir, no termin
 La solución es desinstalar o parar el antivirus y reiniciar. En la mayoría de los casos esto soluciona el problema.
 
 > Si tienes cualquier problema para seguir estos pásos no dudes en preguntar en el canal de Slack.
+
+## ¿Qué programas necesito instalar?
+
+En el repositorio de cada curso te indicaremos el software que necesitas tener instalado para empezar a aprender.
