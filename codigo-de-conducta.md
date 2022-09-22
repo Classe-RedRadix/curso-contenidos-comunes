@@ -16,9 +16,9 @@ Aunque confiamos en la responsabilidad y sentido común de quienes participan en
 - Aceptación de críticas constructivas.
 - Preocuparse no solo por lo que es mejor para cada persona, si no también por aquello que beneficia a la la comunidad.
 - Mostrar empatía y amabilidad con cada integrante  de la comunidad.
-- Asistir a las clases, por el interés individual pero también de todo el grupo. Sabemos que pueden surgir complicaciones y no pasa nada si ves alguna clase grabada, pero te pedimos compromiso para asistir todo lo posible. 
 - Puntualidad, las clases comenzarán a la hora prevista. 
 - Cumplimiento de las normas, instrucciones y políticas de las herramientas digitales que se utilicen durante el curso. 
+- En el caso de que el curso sea presencial, asistir a las clases, por el interés individual pero también de todo el grupo. Sabemos que pueden surgir complicaciones y no pasa nada si ves alguna clase grabada, pero te pedimos compromiso para asistir todo lo posible. 
  
 Mientras, son ejemplo de comportamiento inaceptable:
 
