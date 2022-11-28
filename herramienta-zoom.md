@@ -14,6 +14,10 @@
 - A continuación instala la [aplicación de escritorio](https://zoom.us/download) en tu ordenador.
 - En las chinchetas de Slack encontrarás el link a la sala de Zoom donde debes entrar los días de clase.
 
+### Tu webcam
+
+- Te pedimos que **siempre que estés en clase tengas tu webcam encendida**. Sabemos vas a hacer el curso después de estar trabajando 8 horas y estás cansado, pero para el profesor o profesora que está impartiendo la clase es importantísimo ver las caras de los alumnos para tener feedback inmediato de cómo está yendo la clase.
+
 ### Tu micrófono
 
 - Debes tener Zoom siempre silenciado hasta que quieras intervenir. Esto es para evitar que se acople el sonido.
