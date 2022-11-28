@@ -16,7 +16,7 @@
 
 ### Tu webcam
 
-- Te pedimos que **siempre que estés en clase tengas tu webcam encendida**. Sabemos vas a hacer el curso después de estar trabajando 8 horas y estás cansado, pero para el profesor o profesora que está impartiendo la clase es importantísimo ver las caras de los alumnos para tener feedback inmediato de cómo está yendo la clase.
+- Te pedimos que **siempre que estés en clase tengas tu webcam encendida**. Sabemos vas a hacer el curso después de estar trabajando 8 horas y estás cansado, pero para el profesor o profesora que está impartiendo la clase es importantísimo ver las caras de los alumnos para tener feedback inmediato de cómo está yendo la clase. **¡¡¡Hemos comprobado que cuanta más gente activa su cámara mejor es el aprendizaje!!!**
 
 ### Tu micrófono
 
