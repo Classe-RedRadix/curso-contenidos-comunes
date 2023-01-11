@@ -35,7 +35,7 @@
 
 ## ¿Hasta cuándo podré descargar una grabación?
 
-- Hasta 60 días después de cada grabación. Después la grabación se elimina automáticamente.
+- **Hasta 60 días después de cada grabación.** Después la grabación se elimina automáticamente.
 
 ## Permitir el control remoto de mi Mac
 
