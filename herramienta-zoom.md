@@ -33,6 +33,10 @@
 - También las encontrarás en las chinchetas del canal de Slack.
 - Las grabaciones se vuelcan automáticamente pasados unos minutos desde que finaliza la grabación.
 
+## ¿Hasta cuándo podré descargar una grabación?
+
+- Hasta 60 días después de cada grabación. Después la grabación se elimina automáticamente.
+
 ## Permitir el control remoto de mi Mac
 
 - Si tienes un Mac debes saber que la primera vez que el profesor te pida el control de tu ordenador deberás cambiar los ajustes del sistema.
