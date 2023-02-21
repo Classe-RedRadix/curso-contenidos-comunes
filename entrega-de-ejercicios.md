@@ -11,25 +11,19 @@ Si quieres subir un ejercicio para que el profesor le eche un ojo, para comparti
 1. Clona el repositorio del curso.
 2. Cámbiate a la rama del curso, que se llamará algo como `promocion-[año]-[mes]`.
 3. Crear **una nueva rama a partir de la rama del curso**, una rama para ti. El nombre será igual que la rama del curso pero con tu nombre a continuación: `promocion-[año]-[mes]-[tu-nombre]`.
-
    ```bash
    # Por ejemplo, para alguien llamada Inés
    git switch promocion-2023-febrero # Nos movemos a la rama del curso.
    git switch -c promocion-2023-febrero-ines # Creamos la rama y nos novemos a ella.
    ```
-
    > Recuerda actualizar la rama personal, con la rama del curso. Esto se puede hacer antes o después del commit. Ver el punto [**Actualizar nuestra rama personal, con la rama del curso**](#actualizar-nuestra-rama-personal-con-la-rama-del-curso) para más información.
-
-
 4. Edita el archivo del ejercicio solicitado, o si no existe este archivo, **crea uno donde implementar el código de la solución**.
 5. Añade ese archivo a staging y **crea un commit con un mensaje descriptivo de lo que hemos hecho**, y súbelo a tu rama.
-
    ```bash
    git add . # Añade todas las modificaciones a staging
    git commit -m "Finished exercise-III, module 2" # Añade un mensaje descriptivo
    git push origin promocion-2023-febrero-ines
    ```
-
 6. [Crea una Pull Request](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) para que el profesor revise el cambio y lo añada a la rama del curso. **Tenemos que copiar el enlace de esa PR y añadirlo al canal de slack del curso**. Esta Pull Request siempre será usando **la rama del curso como base**.
 
 ## Actualizar mi rama personal con la rama del curso
