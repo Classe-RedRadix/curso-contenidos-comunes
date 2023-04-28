@@ -11,6 +11,8 @@
 ## ¿Cómo usamos Zoom?
 
 - Lo primero que debes hacer es [crearte una cuenta en Zoom](https://zoom.us/) para entrar en nuestras salas.
+  - Si haces el curso a través de tu empresa debes registrarte con el email de tu empresa.
+  - Esto es para que te podamos facilitar el listado de asistencia al curso.
 - A continuación instala la [aplicación de escritorio](https://zoom.us/download) en tu ordenador.
 - En las chinchetas de Slack encontrarás el link a la sala de Zoom donde debes entrar los días de clase.
 
