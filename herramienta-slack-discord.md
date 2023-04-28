@@ -1,4 +1,6 @@
-![Slack](https://user-images.githubusercontent.com/3619686/183940033-a7f3ea42-eb09-4256-9524-ee65a0b3458d.png) ![Discord](./recursos/discord-logo.png)
+![Discord](./recursos/discord-logo.png)
+
+![Slack](https://user-images.githubusercontent.com/3619686/183940033-a7f3ea42-eb09-4256-9524-ee65a0b3458d.png)
 
 # Uso de Slack / Discord en los cursos de Classe
 
