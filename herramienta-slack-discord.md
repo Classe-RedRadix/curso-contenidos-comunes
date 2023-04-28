@@ -1,4 +1,4 @@
-![1280px-Slack_Technologies_Logo svg](https://user-images.githubusercontent.com/3619686/183940033-a7f3ea42-eb09-4256-9524-ee65a0b3458d.png)
+![Slack](https://user-images.githubusercontent.com/3619686/183940033-a7f3ea42-eb09-4256-9524-ee65a0b3458d.png) ![Discord](./recursos/discord-logo.png)
 
 # Uso de Slack / Discord en los cursos de Classe
 
